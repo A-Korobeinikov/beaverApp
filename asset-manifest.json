@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beaverApp/static/css/main.ae71d505.css",
+    "main.js": "/beaverApp/static/js/main.69329245.js",
+    "static/js/787.c5edda59.chunk.js": "/beaverApp/static/js/787.c5edda59.chunk.js",
+    "static/media/logo.svg": "/beaverApp/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/beaverApp/index.html",
+    "main.ae71d505.css.map": "/beaverApp/static/css/main.ae71d505.css.map",
+    "main.69329245.js.map": "/beaverApp/static/js/main.69329245.js.map",
+    "787.c5edda59.chunk.js.map": "/beaverApp/static/js/787.c5edda59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae71d505.css",
+    "static/js/main.69329245.js"
+  ]
+}
