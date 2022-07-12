@@ -1,0 +1,4 @@
+// .eslintignore
+
+.prettierrc
+package.json
