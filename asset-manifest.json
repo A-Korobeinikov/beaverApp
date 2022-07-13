@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d766016.css",
-    "main.js": "/static/js/main.5c2c5541.js",
-    "index.html": "/index.html",
-    "main.1d766016.css.map": "/static/css/main.1d766016.css.map",
-    "main.5c2c5541.js.map": "/static/js/main.5c2c5541.js.map"
+    "main.css": "/beaverApp/static/css/main.1d766016.css",
+    "main.js": "/beaverApp/static/js/main.5c2c5541.js",
+    "index.html": "/beaverApp/index.html",
+    "main.1d766016.css.map": "/beaverApp/static/css/main.1d766016.css.map",
+    "main.5c2c5541.js.map": "/beaverApp/static/js/main.5c2c5541.js.map"
   },
   "entrypoints": [
     "static/css/main.1d766016.css",
